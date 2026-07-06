@@ -1,5 +1,3 @@
-นี่คือร่าง README.md ที่ออกแบบมาให้ดูโปรระดับมืออาชีพ สื่อสารถึงวิสัยทัศน์ที่คุณต้องการ และเชิญชวนให้นักพัฒนาฝีมือดีมาร่วมโปรเจกต์ครับ
-
 rAthena-MapServerOnRust
 High-Performance Map Server Accelerator for rAthena.
 
