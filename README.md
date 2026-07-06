@@ -41,3 +41,6 @@ Join us to build the most efficient Ragnarok server engine in existence!
 [ ] Optimize Spatial Indexing to support 1,000+ entities.
 
 [ ] Lock-free synchronization for high-frequency updates.
+
+---
+*Note: This is a passion project developed during spare time. We are building this for the love of the craft, so we keep a steady, non-rushed pace. Quality and learning are our top priorities.*
